@@ -1,43 +1,74 @@
-# Astro Starter Kit: Minimal
+# 🏝️ Proyecto: Loopstudios Landing Page
 
-```sh
-npm create astro@latest -- --template minimal
-```
+Este proyecto consiste en el desarrollo de la **landing page de Loopstudios** utilizando **Astro** y **Tailwind CSS**.  
+El objetivo es aplicar los conocimientos sobre **componentes de Astro**, **maquetación**, **estilos responsivos** y **utilidades CSS** para construir un diseño limpio, moderno y adaptable a diferentes dispositivos.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+---
 
-## 🚀 Project Structure
+## 📖 Descripción general
 
-Inside of your Astro project, you'll see the following folders and files:
+### 🧩 Vista previa del proyecto
+Agrega aquí una **captura de pantalla** del resultado final de tu landing page.  
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+![Vista previa del proyecto](Screenshot_29-3-2026_224411_localhost.jpeg)
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+---
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+### 🔗 Enlaces del proyecto
 
-Any static assets, like images, can be placed in the `public/` directory.
+- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/Emmanuel2508/Loopstudios-Landing-Page)
+- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
 
-## 🧞 Commands
+---
 
-All commands are run from the root of the project, from a terminal:
+## 🧠 Proceso de desarrollo
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+### 🛠️ Tecnologías utilizadas
+Lista las herramientas y tecnologías que utilizaste en el proyecto. Por ejemplo:
 
-## 👀 Want to learn more?
+- [Astro](https://astro.build)
+- [Tailwind CSS](https://tailwindcss.com/)
+- HTML5 semántico
+- Diseño responsivo (Mobile-first)
+- Componentes de Astro reutilizables
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+---
+
+### 💡 Lo que aprendí
+En esta ocasion aprendi bastante sobre el funcionamiento de hover en los botones, aplicar una imagen 
+de fondo y segmentar las diferentes partes de la pagina para trabajar de mannera mas sencilla.
+---
+
+### 🚀 Áreas de mejora
+
+Mejorar en crear la pagina con un diseño responsivo
+
+
+---
+
+### 📚 Recursos útiles
+
+Incluye los enlaces, documentación o tutoriales que te ayudaron a completar este proyecto.
+
+**Ejemplo:**
+- [Documentación de Astro](https://docs.astro.build)  
+- [Guía oficial de Tailwind CSS](https://tailwindcss.com/docs)  
+- [tutoriales de w3schools](https://www.w3schools.com/)
+
+---
+
+### 👩‍💻 Autor
+
+- **Nombre completo: Emmanuel Pedroza Perez**  
+- **Carrera: Ing. Tecnologias de la informacion y comunicaciones**  
+- **Grupo: TC1**  
+- **Correo institucional: 23151202@aguascalientes.tecnm.mx**  
+
+---
+
+### ✨ Reflexión final
+
+Me encanto esta practica por el diseño que tuvimos que recrear. Tambien me gustaron 
+los efectos de los botones al poner el cursor encima del boton.
+Para finalizar me hubiera gustado corregir la version movil pero le ofrezco una disculpa
+la semana estuve con problemas de la quimioterapia y tenia muy poca energia.
